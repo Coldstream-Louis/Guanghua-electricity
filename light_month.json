@@ -1,0 +1,176 @@
+[
+  {
+    "AH_Value": 1834454.016,
+    "Time": 0,
+    "Date": 1,
+    "Elec": 408
+  },
+  {
+    "AH_Value": 1834862.429,
+    "Time": 0,
+    "Date": 2,
+    "Elec": 489
+  },
+  {
+    "AH_Value": 1835351.04,
+    "Time": 0,
+    "Date": 3,
+    "Elec": 493
+  },
+  {
+    "AH_Value": 1835844.429,
+    "Time": 0,
+    "Date": 4,
+    "Elec": 494
+  },
+  {
+    "AH_Value": 1836338.048,
+    "Time": 0,
+    "Date": 5,
+    "Elec": 496
+  },
+  {
+    "AH_Value": 1836834.048,
+    "Time": 8,
+    "Date": 6,
+    "Elec": 326
+  },
+  {
+    "AH_Value": 1837160.429,
+    "Time": 0,
+    "Date": 7,
+    "Elec": 461
+  },
+  {
+    "AH_Value": 1837621.429,
+    "Time": 0,
+    "Date": 8,
+    "Elec": 533
+  },
+  {
+    "AH_Value": 1838154.429,
+    "Time": 0,
+    "Date": 9,
+    "Elec": 523
+  },
+  {
+    "AH_Value": 1838677.429,
+    "Time": 0,
+    "Date": 10,
+    "Elec": 505
+  },
+  {
+    "AH_Value": 1839182.429,
+    "Time": 0,
+    "Date": 11,
+    "Elec": 696
+  },
+  {
+    "AH_Value": 1839878.016,
+    "Time": 9,
+    "Date": 12,
+    "Elec": 357
+  },
+  {
+    "AH_Value": 1840235.008,
+    "Time": 0,
+    "Date": 13,
+    "Elec": 555
+  },
+  {
+    "AH_Value": 1840790.016,
+    "Time": 0,
+    "Date": 14,
+    "Elec": 500
+  },
+  {
+    "AH_Value": 1841290.429,
+    "Time": 0,
+    "Date": 15,
+    "Elec": 449
+  },
+  {
+    "AH_Value": 1841739.008,
+    "Time": 0,
+    "Date": 16,
+    "Elec": 546
+  },
+  {
+    "AH_Value": 1842285.056,
+    "Time": 0,
+    "Date": 17,
+    "Elec": 600
+  },
+  {
+    "AH_Value": 1842885.429,
+    "Time": 0,
+    "Date": 18,
+    "Elec": 585
+  },
+  {
+    "AH_Value": 1843470.429,
+    "Time": 0,
+    "Date": 19,
+    "Elec": 576
+  },
+  {
+    "AH_Value": 1844046.429,
+    "Time": 0,
+    "Date": 20,
+    "Elec": 560
+  },
+  {
+    "AH_Value": 1844606.429,
+    "Time": 0,
+    "Date": 21,
+    "Elec": 496
+  },
+  {
+    "AH_Value": 1845102.429,
+    "Time": 0,
+    "Date": 22,
+    "Elec": 476
+  },
+  {
+    "AH_Value": 1845578.429,
+    "Time": 0,
+    "Date": 23,
+    "Elec": 535
+  },
+  {
+    "AH_Value": 1846113.024,
+    "Time": 0,
+    "Date": 24,
+    "Elec": 630
+  },
+  {
+    "AH_Value": 1846743.04,
+    "Time": 0,
+    "Date": 25,
+    "Elec": 589
+  },
+  {
+    "AH_Value": 1847332.429,
+    "Time": 0,
+    "Date": 26,
+    "Elec": 548
+  },
+  {
+    "AH_Value": 1847880.429,
+    "Time": 0,
+    "Date": 27,
+    "Elec": 648
+  },
+  {
+    "AH_Value": 1848528,
+    "Time": 8,
+    "Date": 28,
+    "Elec": ""
+  },
+  {
+    "AH_Value": 1849731.429,
+    "Time": 10,
+    "Date": 30,
+    "Elec": ""
+  }
+]

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="test.js" defer></script>
+    <style>
+        body{
+            background: -webkit-linear-gradient(left top, rgb(20,20,80), rgb(10,10,60));
+        }
+        h2{
+            text-align: center;
+            color:white;
+            font-weight: 200;
+        }
+        #Chart_time{
+            background: rgba(20,20,100,0.4);
+            max-width: 100%;
+            max-height: 600px;
+            /*float: left;*/
+            margin-left: 2%;
+        }
+        #Chart_date{
+            background: rgba(20,20,140,0.4);
+            max-width: 100%;
+            max-height: 500px;
+            /*float: left;*/
+            margin-left: 2%;
+        }
+        #Chart_value_air,#Chart_value_light,#Chart_value_gate{
+            background: rgba(20,20,100,0.4);
+            max-width: 100%;
+            max-height: 220px;
+            /*float: left;*/
+            margin-left: 2%;
+        }
+        #Chart_month_proportion,#Chart_day_proportion{
+            max-width: 50%;
+            max-height: 200px;
+            float: left;
+            margin-left:0;
+        }
+        ol{
+            background: rgba(20,20,120,0.8);
+            list-style: none;
+            margin-left:5%;
+            padding:0;
+            padding-top: 20px;
+            border-top: 2px solid azure;
+        }
+        li{
+            color:white;
+            text-align: left;
+            list-style: none;
+            font-size: 14px;
+            margin-top:1%;
+        }
+        li:hover{cursor: pointer; background: royalblue}
+        #sideBar{
+            float: left;
+            width:18%;
+            min-height:800px;
+            margin-left: 2%;
+            background:rgba(10,10,80,0.8);
+            border: 2px dashed azure;
+        }
+    </style>
+</head>
+<body>
+    <h2>光华楼用电情况统计</h2>
+
+    <div style="float: left; width:30%;">
+        <div style="background: rgba(20,20,160,0.4); min-height: 200px; min-width:100%; margin-left: 2%">
+            <canvas id="Chart_month_proportion" width="400" height="400" ></canvas>
+            <canvas id="Chart_day_proportion" width="400" height="400" ></canvas>
+        </div>
+        <canvas id="Chart_value_light" width="800" height="400" ></canvas>
+        <canvas id="Chart_value_air" width="800" height="400" ></canvas>
+        <canvas id="Chart_value_gate" width="800" height="400" ></canvas>
+    </div>
+
+    <div style="float: left; width:48%; margin-left: 1%">
+        <canvas id="Chart_time" width="800" height="400" ></canvas>
+        <canvas id="Chart_date" width="800" height="400" ></canvas>
+    </div>
+
+    <div id="sideBar">
+        <h2 style="text-align: left; margin-left:5%;">数据选项菜单</h2>
+        <ol>
+            <li v-for="item in dateInApril" v-on:click="show(item.index)">
+                {{ item.date + " 温度：" + item.temperature + " 天气：" + item.weather }}
+            </li>
+        </ol>
+    </div>
+</body>
+</html>

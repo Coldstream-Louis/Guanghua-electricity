@@ -1,0 +1,3596 @@
+[
+  {
+    "AH_Value": 1574552.064,
+    "Time": 0,
+    "Date": 1,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574556.032,
+    "Time": 1,
+    "Date": 1,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1574559.429,
+    "Time": 2,
+    "Date": 1,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574563.429,
+    "Time": 3,
+    "Date": 1,
+    "Elec": 3.61
+  },
+  {
+    "AH_Value": 1574567.04,
+    "Time": 4,
+    "Date": 1,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1574570.429,
+    "Time": 5,
+    "Date": 1,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574574.429,
+    "Time": 6,
+    "Date": 1,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1574577.024,
+    "Time": 7,
+    "Date": 1,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1574583.04,
+    "Time": 8,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574588.032,
+    "Time": 9,
+    "Date": 1,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1574594.048,
+    "Time": 10,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574599.04,
+    "Time": 11,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574604.032,
+    "Time": 12,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574609.024,
+    "Time": 13,
+    "Date": 1,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1574615.04,
+    "Time": 14,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574620.032,
+    "Time": 15,
+    "Date": 1,
+    "Elec": 7.4
+  },
+  {
+    "AH_Value": 1574627.429,
+    "Time": 16,
+    "Date": 1,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574632.429,
+    "Time": 17,
+    "Date": 1,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574638.429,
+    "Time": 18,
+    "Date": 1,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574643.429,
+    "Time": 19,
+    "Date": 1,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1574648.064,
+    "Time": 20,
+    "Date": 1,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574653.056,
+    "Time": 21,
+    "Date": 1,
+    "Elec": 6.37
+  },
+  {
+    "AH_Value": 1574659.429,
+    "Time": 22,
+    "Date": 1,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1574662.016,
+    "Time": 23,
+    "Date": 1,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1574666.429,
+    "Time": 0,
+    "Date": 2,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574670.429,
+    "Time": 1,
+    "Date": 2,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1574674.048,
+    "Time": 2,
+    "Date": 2,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574678.016,
+    "Time": 3,
+    "Date": 2,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1574681.429,
+    "Time": 4,
+    "Date": 2,
+    "Elec": 3.63
+  },
+  {
+    "AH_Value": 1574685.056,
+    "Time": 5,
+    "Date": 2,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574689.024,
+    "Time": 6,
+    "Date": 2,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1574692.429,
+    "Time": 7,
+    "Date": 2,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574698.429,
+    "Time": 8,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574703.429,
+    "Time": 9,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574708.429,
+    "Time": 10,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574713.429,
+    "Time": 11,
+    "Date": 2,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574719.429,
+    "Time": 12,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574724.429,
+    "Time": 13,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574729.429,
+    "Time": 14,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574734.429,
+    "Time": 15,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574739.429,
+    "Time": 16,
+    "Date": 2,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574745.429,
+    "Time": 17,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574750.429,
+    "Time": 18,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574755.429,
+    "Time": 19,
+    "Date": 2,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574761.429,
+    "Time": 20,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574766.429,
+    "Time": 21,
+    "Date": 2,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574771.429,
+    "Time": 22,
+    "Date": 2,
+    "Elec": 3.61
+  },
+  {
+    "AH_Value": 1574775.04,
+    "Time": 23,
+    "Date": 2,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574779.008,
+    "Time": 0,
+    "Date": 3,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1574782.429,
+    "Time": 1,
+    "Date": 3,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1574786.048,
+    "Time": 2,
+    "Date": 3,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574790.016,
+    "Time": 3,
+    "Date": 3,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1574793.429,
+    "Time": 4,
+    "Date": 3,
+    "Elec": 3.63
+  },
+  {
+    "AH_Value": 1574797.056,
+    "Time": 5,
+    "Date": 3,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574801.024,
+    "Time": 6,
+    "Date": 3,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1574805.429,
+    "Time": 7,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574810.429,
+    "Time": 8,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574815.429,
+    "Time": 9,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574820.429,
+    "Time": 10,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574825.429,
+    "Time": 11,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574830.429,
+    "Time": 12,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574835.429,
+    "Time": 13,
+    "Date": 3,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1574840.064,
+    "Time": 14,
+    "Date": 3,
+    "Elec": 6.36
+  },
+  {
+    "AH_Value": 1574846.429,
+    "Time": 15,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574851.429,
+    "Time": 16,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574856.429,
+    "Time": 17,
+    "Date": 3,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1574862.429,
+    "Time": 18,
+    "Date": 3,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574867.429,
+    "Time": 19,
+    "Date": 3,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1574872.064,
+    "Time": 20,
+    "Date": 3,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574877.056,
+    "Time": 21,
+    "Date": 3,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1574881.024,
+    "Time": 22,
+    "Date": 3,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1574885.429,
+    "Time": 23,
+    "Date": 3,
+    "Elec": 3
+  },
+  {
+    "AH_Value": 1574888.429,
+    "Time": 0,
+    "Date": 4,
+    "Elec": 3.6
+  },
+  {
+    "AH_Value": 1574892.032,
+    "Time": 1,
+    "Date": 4,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1574895.429,
+    "Time": 2,
+    "Date": 4,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574899.429,
+    "Time": 3,
+    "Date": 4,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1574902.016,
+    "Time": 4,
+    "Date": 4,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1574905.429,
+    "Time": 5,
+    "Date": 4,
+    "Elec": 3.63
+  },
+  {
+    "AH_Value": 1574909.056,
+    "Time": 6,
+    "Date": 4,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1574912,
+    "Time": 7,
+    "Date": 4,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1574917.429,
+    "Time": 8,
+    "Date": 4,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574922.429,
+    "Time": 9,
+    "Date": 4,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574927.429,
+    "Time": 10,
+    "Date": 4,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574931.429,
+    "Time": 11,
+    "Date": 4,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1574936.064,
+    "Time": 12,
+    "Date": 4,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574941.056,
+    "Time": 13,
+    "Date": 4,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574946.048,
+    "Time": 14,
+    "Date": 4,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574951.04,
+    "Time": 15,
+    "Date": 4,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574956.032,
+    "Time": 16,
+    "Date": 4,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1574961.024,
+    "Time": 17,
+    "Date": 4,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1574965.429,
+    "Time": 18,
+    "Date": 4,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574970.429,
+    "Time": 19,
+    "Date": 4,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574974.429,
+    "Time": 20,
+    "Date": 4,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1574979.429,
+    "Time": 21,
+    "Date": 4,
+    "Elec": 3.61
+  },
+  {
+    "AH_Value": 1574983.04,
+    "Time": 22,
+    "Date": 4,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1574986.429,
+    "Time": 23,
+    "Date": 4,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1574990.429,
+    "Time": 0,
+    "Date": 5,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1574993.024,
+    "Time": 1,
+    "Date": 5,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1574996.429,
+    "Time": 2,
+    "Date": 5,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1574999.04,
+    "Time": 3,
+    "Date": 5,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575002.429,
+    "Time": 4,
+    "Date": 5,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575006.429,
+    "Time": 5,
+    "Date": 5,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1575009.024,
+    "Time": 6,
+    "Date": 5,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575012.429,
+    "Time": 7,
+    "Date": 5,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575017.429,
+    "Time": 8,
+    "Date": 5,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575022.429,
+    "Time": 9,
+    "Date": 5,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575026.048,
+    "Time": 10,
+    "Date": 5,
+    "Elec": ""
+  },
+  {
+    "AH_Value": 1575110.016,
+    "Time": 8,
+    "Date": 6,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575115.008,
+    "Time": 9,
+    "Date": 6,
+    "Elec": 4.42
+  },
+  {
+    "AH_Value": 1575119.429,
+    "Time": 10,
+    "Date": 6,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1575125.429,
+    "Time": 11,
+    "Date": 6,
+    "Elec": 7.63
+  },
+  {
+    "AH_Value": 1575133.056,
+    "Time": 12,
+    "Date": 6,
+    "Elec": 1.37
+  },
+  {
+    "AH_Value": 1575134.429,
+    "Time": 13,
+    "Date": 6,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575139.429,
+    "Time": 14,
+    "Date": 6,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575144.429,
+    "Time": 15,
+    "Date": 6,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1575149.056,
+    "Time": 16,
+    "Date": 6,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575154.048,
+    "Time": 17,
+    "Date": 6,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575159.04,
+    "Time": 18,
+    "Date": 6,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575164.032,
+    "Time": 19,
+    "Date": 6,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575168,
+    "Time": 20,
+    "Date": 6,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1575173.429,
+    "Time": 21,
+    "Date": 6,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575178.429,
+    "Time": 22,
+    "Date": 6,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575180.032,
+    "Time": 23,
+    "Date": 6,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575183.429,
+    "Time": 0,
+    "Date": 7,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575186.048,
+    "Time": 1,
+    "Date": 7,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1575188.429,
+    "Time": 2,
+    "Date": 7,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1575191.04,
+    "Time": 3,
+    "Date": 7,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575194.429,
+    "Time": 4,
+    "Date": 7,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575196.032,
+    "Time": 5,
+    "Date": 7,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575199.429,
+    "Time": 6,
+    "Date": 7,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575202.048,
+    "Time": 7,
+    "Date": 7,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575207.04,
+    "Time": 8,
+    "Date": 7,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575211.008,
+    "Time": 9,
+    "Date": 7,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575217.024,
+    "Time": 10,
+    "Date": 7,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1575221.429,
+    "Time": 11,
+    "Date": 7,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575225.429,
+    "Time": 12,
+    "Date": 7,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575230.429,
+    "Time": 13,
+    "Date": 7,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575234.048,
+    "Time": 14,
+    "Date": 7,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575239.04,
+    "Time": 15,
+    "Date": 7,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575244.032,
+    "Time": 16,
+    "Date": 7,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575249.024,
+    "Time": 17,
+    "Date": 7,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575254.016,
+    "Time": 18,
+    "Date": 7,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1575258.429,
+    "Time": 19,
+    "Date": 7,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575263.429,
+    "Time": 20,
+    "Date": 7,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575268.429,
+    "Time": 21,
+    "Date": 7,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575273.429,
+    "Time": 22,
+    "Date": 7,
+    "Elec": 1.58
+  },
+  {
+    "AH_Value": 1575275.008,
+    "Time": 23,
+    "Date": 7,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1575278.429,
+    "Time": 0,
+    "Date": 8,
+    "Elec": 1.57
+  },
+  {
+    "AH_Value": 1575280,
+    "Time": 1,
+    "Date": 8,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1575283.429,
+    "Time": 2,
+    "Date": 8,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1575286.016,
+    "Time": 3,
+    "Date": 8,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1575288.064,
+    "Time": 4,
+    "Date": 8,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1575291.008,
+    "Time": 5,
+    "Date": 8,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1575293.056,
+    "Time": 6,
+    "Date": 8,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1575296,
+    "Time": 7,
+    "Date": 8,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1575301.429,
+    "Time": 8,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575306.429,
+    "Time": 9,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575311.429,
+    "Time": 10,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575316.429,
+    "Time": 11,
+    "Date": 8,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1575322.429,
+    "Time": 12,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575327.429,
+    "Time": 13,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575332.429,
+    "Time": 14,
+    "Date": 8,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1575338.429,
+    "Time": 15,
+    "Date": 8,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575342.429,
+    "Time": 16,
+    "Date": 8,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575347.429,
+    "Time": 17,
+    "Date": 8,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1575352.064,
+    "Time": 18,
+    "Date": 8,
+    "Elec": 6.36
+  },
+  {
+    "AH_Value": 1575358.429,
+    "Time": 19,
+    "Date": 8,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575362.048,
+    "Time": 20,
+    "Date": 8,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575367.04,
+    "Time": 21,
+    "Date": 8,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575372.032,
+    "Time": 22,
+    "Date": 8,
+    "Elec": 2.4
+  },
+  {
+    "AH_Value": 1575374.429,
+    "Time": 23,
+    "Date": 8,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575378.048,
+    "Time": 0,
+    "Date": 9,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1575380.429,
+    "Time": 1,
+    "Date": 9,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1575382.016,
+    "Time": 2,
+    "Date": 9,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1575386.429,
+    "Time": 3,
+    "Date": 9,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575388.032,
+    "Time": 4,
+    "Date": 9,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575391.429,
+    "Time": 5,
+    "Date": 9,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1575393.024,
+    "Time": 6,
+    "Date": 9,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575396.429,
+    "Time": 7,
+    "Date": 9,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575400.429,
+    "Time": 8,
+    "Date": 9,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1575406.429,
+    "Time": 9,
+    "Date": 9,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575411.429,
+    "Time": 10,
+    "Date": 9,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1575416.064,
+    "Time": 11,
+    "Date": 9,
+    "Elec": 6.36
+  },
+  {
+    "AH_Value": 1575422.429,
+    "Time": 12,
+    "Date": 9,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575427.429,
+    "Time": 13,
+    "Date": 9,
+    "Elec": 3.61
+  },
+  {
+    "AH_Value": 1575431.04,
+    "Time": 14,
+    "Date": 9,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575436.032,
+    "Time": 15,
+    "Date": 9,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575442.048,
+    "Time": 16,
+    "Date": 9,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575448.064,
+    "Time": 17,
+    "Date": 9,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1575451.008,
+    "Time": 18,
+    "Date": 9,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575456,
+    "Time": 19,
+    "Date": 9,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1575461.429,
+    "Time": 20,
+    "Date": 9,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575466.429,
+    "Time": 21,
+    "Date": 9,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575471.429,
+    "Time": 22,
+    "Date": 9,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575474.048,
+    "Time": 23,
+    "Date": 9,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1575476.429,
+    "Time": 0,
+    "Date": 10,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1575479.04,
+    "Time": 1,
+    "Date": 10,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575482.429,
+    "Time": 2,
+    "Date": 10,
+    "Elec": 2.63
+  },
+  {
+    "AH_Value": 1575485.056,
+    "Time": 3,
+    "Date": 10,
+    "Elec": 2.37
+  },
+  {
+    "AH_Value": 1575487.429,
+    "Time": 4,
+    "Date": 10,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575490.048,
+    "Time": 5,
+    "Date": 10,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1575493.429,
+    "Time": 6,
+    "Date": 10,
+    "Elec": 3
+  },
+  {
+    "AH_Value": 1575496.429,
+    "Time": 7,
+    "Date": 10,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1575501.056,
+    "Time": 8,
+    "Date": 10,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575505.024,
+    "Time": 9,
+    "Date": 10,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575511.04,
+    "Time": 10,
+    "Date": 10,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575517.056,
+    "Time": 11,
+    "Date": 10,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575521.024,
+    "Time": 12,
+    "Date": 10,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575527.04,
+    "Time": 13,
+    "Date": 10,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575532.032,
+    "Time": 14,
+    "Date": 10,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575538.048,
+    "Time": 15,
+    "Date": 10,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575544.064,
+    "Time": 16,
+    "Date": 10,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575549.056,
+    "Time": 17,
+    "Date": 10,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575554.048,
+    "Time": 18,
+    "Date": 10,
+    "Elec": 6.38
+  },
+  {
+    "AH_Value": 1575560.429,
+    "Time": 19,
+    "Date": 10,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1575565.056,
+    "Time": 20,
+    "Date": 10,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575570.048,
+    "Time": 21,
+    "Date": 10,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575575.04,
+    "Time": 22,
+    "Date": 10,
+    "Elec": 2.39
+  },
+  {
+    "AH_Value": 1575577.429,
+    "Time": 23,
+    "Date": 10,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1575580.032,
+    "Time": 0,
+    "Date": 11,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575583.429,
+    "Time": 1,
+    "Date": 11,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575586.048,
+    "Time": 2,
+    "Date": 11,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1575588.429,
+    "Time": 3,
+    "Date": 11,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1575591.04,
+    "Time": 4,
+    "Date": 11,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575594.429,
+    "Time": 5,
+    "Date": 11,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575596.032,
+    "Time": 6,
+    "Date": 11,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575599.429,
+    "Time": 7,
+    "Date": 11,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575604.429,
+    "Time": 8,
+    "Date": 11,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575609.429,
+    "Time": 9,
+    "Date": 11,
+    "Elec": 3.63
+  },
+  {
+    "AH_Value": 1575613.056,
+    "Time": 10,
+    "Date": 11,
+    "Elec": 6.37
+  },
+  {
+    "AH_Value": 1575619.429,
+    "Time": 11,
+    "Date": 11,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575624.429,
+    "Time": 12,
+    "Date": 11,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1575629.056,
+    "Time": 13,
+    "Date": 11,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575634.048,
+    "Time": 14,
+    "Date": 11,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575638.016,
+    "Time": 15,
+    "Date": 11,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1575644.032,
+    "Time": 16,
+    "Date": 11,
+    "Elec": ""
+  },
+  {
+    "AH_Value": 1575709.056,
+    "Time": 9,
+    "Date": 12,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1575712,
+    "Time": 10,
+    "Date": 12,
+    "Elec": 4.43
+  },
+  {
+    "AH_Value": 1575716.429,
+    "Time": 11,
+    "Date": 12,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575720.429,
+    "Time": 12,
+    "Date": 12,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1575725.056,
+    "Time": 13,
+    "Date": 12,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575730.048,
+    "Time": 14,
+    "Date": 12,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575734.016,
+    "Time": 15,
+    "Date": 12,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575739.008,
+    "Time": 16,
+    "Date": 12,
+    "Elec": 4.42
+  },
+  {
+    "AH_Value": 1575743.429,
+    "Time": 17,
+    "Date": 12,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575748.429,
+    "Time": 18,
+    "Date": 12,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575752.429,
+    "Time": 19,
+    "Date": 12,
+    "Elec": 3.6
+  },
+  {
+    "AH_Value": 1575756.032,
+    "Time": 20,
+    "Date": 12,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575760,
+    "Time": 21,
+    "Date": 12,
+    "Elec": 4.43
+  },
+  {
+    "AH_Value": 1575764.429,
+    "Time": 22,
+    "Date": 12,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1575767.04,
+    "Time": 23,
+    "Date": 12,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575770.429,
+    "Time": 0,
+    "Date": 13,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575772.032,
+    "Time": 1,
+    "Date": 13,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575775.429,
+    "Time": 2,
+    "Date": 13,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1575777.024,
+    "Time": 3,
+    "Date": 13,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575780.429,
+    "Time": 4,
+    "Date": 13,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1575782.016,
+    "Time": 5,
+    "Date": 13,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575785.429,
+    "Time": 6,
+    "Date": 13,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1575788.032,
+    "Time": 7,
+    "Date": 13,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575792,
+    "Time": 8,
+    "Date": 13,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1575797.429,
+    "Time": 9,
+    "Date": 13,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575801.429,
+    "Time": 10,
+    "Date": 13,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575806.429,
+    "Time": 11,
+    "Date": 13,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575811.429,
+    "Time": 12,
+    "Date": 13,
+    "Elec": 3.61
+  },
+  {
+    "AH_Value": 1575815.04,
+    "Time": 13,
+    "Date": 13,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575820.032,
+    "Time": 14,
+    "Date": 13,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575824,
+    "Time": 15,
+    "Date": 13,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1575829.429,
+    "Time": 16,
+    "Date": 13,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575833.429,
+    "Time": 17,
+    "Date": 13,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575838.429,
+    "Time": 18,
+    "Date": 13,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575842.048,
+    "Time": 19,
+    "Date": 13,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575846.016,
+    "Time": 20,
+    "Date": 13,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575851.008,
+    "Time": 21,
+    "Date": 13,
+    "Elec": 4.42
+  },
+  {
+    "AH_Value": 1575855.429,
+    "Time": 22,
+    "Date": 13,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575858.048,
+    "Time": 23,
+    "Date": 13,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1575860.429,
+    "Time": 0,
+    "Date": 14,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1575863.04,
+    "Time": 1,
+    "Date": 14,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1575866.429,
+    "Time": 2,
+    "Date": 14,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1575868.032,
+    "Time": 3,
+    "Date": 14,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575871.429,
+    "Time": 4,
+    "Date": 14,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575874.048,
+    "Time": 5,
+    "Date": 14,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1575877.429,
+    "Time": 6,
+    "Date": 14,
+    "Elec": 3
+  },
+  {
+    "AH_Value": 1575880.429,
+    "Time": 7,
+    "Date": 14,
+    "Elec": 3.6
+  },
+  {
+    "AH_Value": 1575884.032,
+    "Time": 8,
+    "Date": 14,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575889.024,
+    "Time": 9,
+    "Date": 14,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1575893.429,
+    "Time": 10,
+    "Date": 14,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575898.429,
+    "Time": 11,
+    "Date": 14,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575903.429,
+    "Time": 12,
+    "Date": 14,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575907.429,
+    "Time": 13,
+    "Date": 14,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575912.429,
+    "Time": 14,
+    "Date": 14,
+    "Elec": 3.6
+  },
+  {
+    "AH_Value": 1575916.032,
+    "Time": 15,
+    "Date": 14,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575921.024,
+    "Time": 16,
+    "Date": 14,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1575925.429,
+    "Time": 17,
+    "Date": 14,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575930.429,
+    "Time": 18,
+    "Date": 14,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1575934.429,
+    "Time": 19,
+    "Date": 14,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1575938.048,
+    "Time": 20,
+    "Date": 14,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1575943.04,
+    "Time": 21,
+    "Date": 14,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1575947.008,
+    "Time": 22,
+    "Date": 14,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1575950.429,
+    "Time": 23,
+    "Date": 14,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1575953.024,
+    "Time": 0,
+    "Date": 15,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575956.429,
+    "Time": 1,
+    "Date": 15,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1575958.016,
+    "Time": 2,
+    "Date": 15,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1575961.429,
+    "Time": 3,
+    "Date": 15,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1575964.032,
+    "Time": 4,
+    "Date": 15,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1575967.429,
+    "Time": 5,
+    "Date": 15,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1575970.048,
+    "Time": 6,
+    "Date": 15,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1575973.429,
+    "Time": 7,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575978.429,
+    "Time": 8,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575983.429,
+    "Time": 9,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575988.429,
+    "Time": 10,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1575993.429,
+    "Time": 11,
+    "Date": 15,
+    "Elec": 3.63
+  },
+  {
+    "AH_Value": 1575997.056,
+    "Time": 12,
+    "Date": 15,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576002.048,
+    "Time": 13,
+    "Date": 15,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576007.04,
+    "Time": 14,
+    "Date": 15,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576012.032,
+    "Time": 15,
+    "Date": 15,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576017.024,
+    "Time": 16,
+    "Date": 15,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576022.016,
+    "Time": 17,
+    "Date": 15,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1576026.429,
+    "Time": 18,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576031.429,
+    "Time": 19,
+    "Date": 15,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576036.429,
+    "Time": 20,
+    "Date": 15,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576040.429,
+    "Time": 21,
+    "Date": 15,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1576045.056,
+    "Time": 22,
+    "Date": 15,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576048,
+    "Time": 23,
+    "Date": 15,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1576050.048,
+    "Time": 0,
+    "Date": 16,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1576053.429,
+    "Time": 1,
+    "Date": 16,
+    "Elec": 2.64
+  },
+  {
+    "AH_Value": 1576056.064,
+    "Time": 2,
+    "Date": 16,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576059.008,
+    "Time": 3,
+    "Date": 16,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1576061.056,
+    "Time": 4,
+    "Date": 16,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576064,
+    "Time": 5,
+    "Date": 16,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576067.429,
+    "Time": 6,
+    "Date": 16,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576070.016,
+    "Time": 7,
+    "Date": 16,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1576074.429,
+    "Time": 8,
+    "Date": 16,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576079.429,
+    "Time": 9,
+    "Date": 16,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576084.429,
+    "Time": 10,
+    "Date": 16,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576089.429,
+    "Time": 11,
+    "Date": 16,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576095.429,
+    "Time": 12,
+    "Date": 16,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576099.429,
+    "Time": 13,
+    "Date": 16,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576105.429,
+    "Time": 14,
+    "Date": 16,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576110.429,
+    "Time": 15,
+    "Date": 16,
+    "Elec": 3.62
+  },
+  {
+    "AH_Value": 1576114.048,
+    "Time": 16,
+    "Date": 16,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576120.064,
+    "Time": 17,
+    "Date": 16,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576125.056,
+    "Time": 18,
+    "Date": 16,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576130.048,
+    "Time": 19,
+    "Date": 16,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576135.04,
+    "Time": 20,
+    "Date": 16,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576140.032,
+    "Time": 21,
+    "Date": 16,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576146.048,
+    "Time": 22,
+    "Date": 16,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1576149.429,
+    "Time": 23,
+    "Date": 16,
+    "Elec": 2.64
+  },
+  {
+    "AH_Value": 1576152.064,
+    "Time": 0,
+    "Date": 17,
+    "Elec": 2.36
+  },
+  {
+    "AH_Value": 1576154.429,
+    "Time": 1,
+    "Date": 17,
+    "Elec": 2.63
+  },
+  {
+    "AH_Value": 1576157.056,
+    "Time": 2,
+    "Date": 17,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576160,
+    "Time": 3,
+    "Date": 17,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576163.429,
+    "Time": 4,
+    "Date": 17,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576166.016,
+    "Time": 5,
+    "Date": 17,
+    "Elec": 2.41
+  },
+  {
+    "AH_Value": 1576168.429,
+    "Time": 6,
+    "Date": 17,
+    "Elec": 3.6
+  },
+  {
+    "AH_Value": 1576172.032,
+    "Time": 7,
+    "Date": 17,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1576176,
+    "Time": 8,
+    "Date": 17,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576182.016,
+    "Time": 9,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576187.008,
+    "Time": 10,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576192,
+    "Time": 11,
+    "Date": 17,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576198.016,
+    "Time": 12,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576203.008,
+    "Time": 13,
+    "Date": 17,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576209.024,
+    "Time": 14,
+    "Date": 17,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576215.04,
+    "Time": 15,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576220.032,
+    "Time": 16,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576225.024,
+    "Time": 17,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576230.016,
+    "Time": 18,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576235.008,
+    "Time": 19,
+    "Date": 17,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576241.024,
+    "Time": 20,
+    "Date": 17,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576246.016,
+    "Time": 21,
+    "Date": 17,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1576250.429,
+    "Time": 22,
+    "Date": 17,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576254.429,
+    "Time": 23,
+    "Date": 17,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576257.024,
+    "Time": 0,
+    "Date": 18,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576260.429,
+    "Time": 1,
+    "Date": 18,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1576262.016,
+    "Time": 2,
+    "Date": 18,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1576266.429,
+    "Time": 3,
+    "Date": 18,
+    "Elec": 2.63
+  },
+  {
+    "AH_Value": 1576269.056,
+    "Time": 4,
+    "Date": 18,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576272,
+    "Time": 5,
+    "Date": 18,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576275.429,
+    "Time": 6,
+    "Date": 18,
+    "Elec": 2
+  },
+  {
+    "AH_Value": 1576277.429,
+    "Time": 7,
+    "Date": 18,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576282.429,
+    "Time": 8,
+    "Date": 18,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576287.429,
+    "Time": 9,
+    "Date": 18,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576292.429,
+    "Time": 10,
+    "Date": 18,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576296.429,
+    "Time": 11,
+    "Date": 18,
+    "Elec": 4.63
+  },
+  {
+    "AH_Value": 1576301.056,
+    "Time": 12,
+    "Date": 18,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1576305.024,
+    "Time": 13,
+    "Date": 18,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576311.04,
+    "Time": 14,
+    "Date": 18,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576316.032,
+    "Time": 15,
+    "Date": 18,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576321.024,
+    "Time": 16,
+    "Date": 18,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576327.04,
+    "Time": 17,
+    "Date": 18,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1576331.008,
+    "Time": 18,
+    "Date": 18,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576336,
+    "Time": 19,
+    "Date": 18,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576341.429,
+    "Time": 20,
+    "Date": 18,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576345.429,
+    "Time": 21,
+    "Date": 18,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576350.429,
+    "Time": 22,
+    "Date": 18,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576353.024,
+    "Time": 23,
+    "Date": 18,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576356.429,
+    "Time": 0,
+    "Date": 19,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1576358.016,
+    "Time": 1,
+    "Date": 19,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576361.429,
+    "Time": 2,
+    "Date": 19,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1576364.032,
+    "Time": 3,
+    "Date": 19,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1576367.429,
+    "Time": 4,
+    "Date": 19,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1576370.048,
+    "Time": 5,
+    "Date": 19,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1576372.429,
+    "Time": 6,
+    "Date": 19,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1576375.04,
+    "Time": 7,
+    "Date": 19,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576380.032,
+    "Time": 8,
+    "Date": 19,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1576384,
+    "Time": 9,
+    "Date": 19,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576390.016,
+    "Time": 10,
+    "Date": 19,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576395.008,
+    "Time": 11,
+    "Date": 19,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576400,
+    "Time": 12,
+    "Date": 19,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576405.429,
+    "Time": 13,
+    "Date": 19,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576410.429,
+    "Time": 14,
+    "Date": 19,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576415.429,
+    "Time": 15,
+    "Date": 19,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576421.429,
+    "Time": 16,
+    "Date": 19,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576425.429,
+    "Time": 17,
+    "Date": 19,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576431.429,
+    "Time": 18,
+    "Date": 19,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576436.429,
+    "Time": 19,
+    "Date": 19,
+    "Elec": 3.64
+  },
+  {
+    "AH_Value": 1576440.064,
+    "Time": 20,
+    "Date": 19,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576445.056,
+    "Time": 21,
+    "Date": 19,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576450.048,
+    "Time": 22,
+    "Date": 19,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1576452.429,
+    "Time": 23,
+    "Date": 19,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1576455.04,
+    "Time": 0,
+    "Date": 20,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1576458.429,
+    "Time": 1,
+    "Date": 20,
+    "Elec": 1.6
+  },
+  {
+    "AH_Value": 1576460.032,
+    "Time": 2,
+    "Date": 20,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1576463.429,
+    "Time": 3,
+    "Date": 20,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1576466.048,
+    "Time": 4,
+    "Date": 20,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1576468.429,
+    "Time": 5,
+    "Date": 20,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1576471.04,
+    "Time": 6,
+    "Date": 20,
+    "Elec": 3.39
+  },
+  {
+    "AH_Value": 1576474.429,
+    "Time": 7,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576479.429,
+    "Time": 8,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576484.429,
+    "Time": 9,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576489.429,
+    "Time": 10,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576494.429,
+    "Time": 11,
+    "Date": 20,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576500.429,
+    "Time": 12,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576505.429,
+    "Time": 13,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576510.429,
+    "Time": 14,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576515.429,
+    "Time": 15,
+    "Date": 20,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576521.429,
+    "Time": 16,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576526.429,
+    "Time": 17,
+    "Date": 20,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576531.429,
+    "Time": 18,
+    "Date": 20,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1576536.064,
+    "Time": 19,
+    "Date": 20,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576541.056,
+    "Time": 20,
+    "Date": 20,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576546.048,
+    "Time": 21,
+    "Date": 20,
+    "Elec": 3.97
+  },
+  {
+    "AH_Value": 1576550.016,
+    "Time": 22,
+    "Date": 20,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576553.429,
+    "Time": 23,
+    "Date": 20,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1576556.032,
+    "Time": 0,
+    "Date": 21,
+    "Elec": 2.4
+  },
+  {
+    "AH_Value": 1576558.429,
+    "Time": 1,
+    "Date": 21,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576561.024,
+    "Time": 2,
+    "Date": 21,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576564.429,
+    "Time": 3,
+    "Date": 21,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1576566.016,
+    "Time": 4,
+    "Date": 21,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576569.429,
+    "Time": 5,
+    "Date": 21,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1576572.032,
+    "Time": 6,
+    "Date": 21,
+    "Elec": 2.4
+  },
+  {
+    "AH_Value": 1576574.429,
+    "Time": 7,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576579.429,
+    "Time": 8,
+    "Date": 21,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576585.429,
+    "Time": 9,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576590.429,
+    "Time": 10,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576595.429,
+    "Time": 11,
+    "Date": 21,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576601.429,
+    "Time": 12,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576606.429,
+    "Time": 13,
+    "Date": 21,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576612.429,
+    "Time": 14,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576617.429,
+    "Time": 15,
+    "Date": 21,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576623.429,
+    "Time": 16,
+    "Date": 21,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576629.429,
+    "Time": 17,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576634.429,
+    "Time": 18,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576639.429,
+    "Time": 19,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576644.429,
+    "Time": 20,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576649.429,
+    "Time": 21,
+    "Date": 21,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576654.429,
+    "Time": 22,
+    "Date": 21,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576657.024,
+    "Time": 23,
+    "Date": 21,
+    "Elec": 2.41
+  },
+  {
+    "AH_Value": 1576659.429,
+    "Time": 0,
+    "Date": 22,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576662.016,
+    "Time": 1,
+    "Date": 22,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576665.429,
+    "Time": 2,
+    "Date": 22,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1576668.032,
+    "Time": 3,
+    "Date": 22,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1576671.429,
+    "Time": 4,
+    "Date": 22,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1576674.048,
+    "Time": 5,
+    "Date": 22,
+    "Elec": 2.38
+  },
+  {
+    "AH_Value": 1576676.429,
+    "Time": 6,
+    "Date": 22,
+    "Elec": 2.61
+  },
+  {
+    "AH_Value": 1576679.04,
+    "Time": 7,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576684.032,
+    "Time": 8,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576689.024,
+    "Time": 9,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576694.016,
+    "Time": 10,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576699.008,
+    "Time": 11,
+    "Date": 22,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576705.024,
+    "Time": 12,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576710.016,
+    "Time": 13,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576715.008,
+    "Time": 14,
+    "Date": 22,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576721.024,
+    "Time": 15,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576726.016,
+    "Time": 16,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576731.008,
+    "Time": 17,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576736,
+    "Time": 18,
+    "Date": 22,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576741.429,
+    "Time": 19,
+    "Date": 22,
+    "Elec": 5.58
+  },
+  {
+    "AH_Value": 1576747.008,
+    "Time": 20,
+    "Date": 22,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576752,
+    "Time": 21,
+    "Date": 22,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576757.429,
+    "Time": 22,
+    "Date": 22,
+    "Elec": 2.64
+  },
+  {
+    "AH_Value": 1576760.064,
+    "Time": 23,
+    "Date": 22,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576763.008,
+    "Time": 0,
+    "Date": 23,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1576766.429,
+    "Time": 1,
+    "Date": 23,
+    "Elec": 1.57
+  },
+  {
+    "AH_Value": 1576768,
+    "Time": 2,
+    "Date": 23,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576771.429,
+    "Time": 3,
+    "Date": 23,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576774.016,
+    "Time": 4,
+    "Date": 23,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576777.429,
+    "Time": 5,
+    "Date": 23,
+    "Elec": 1.58
+  },
+  {
+    "AH_Value": 1576779.008,
+    "Time": 6,
+    "Date": 23,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1576782.429,
+    "Time": 7,
+    "Date": 23,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576787.429,
+    "Time": 8,
+    "Date": 23,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1576792.064,
+    "Time": 9,
+    "Date": 23,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576797.056,
+    "Time": 10,
+    "Date": 23,
+    "Elec": 7.37
+  },
+  {
+    "AH_Value": 1576804.429,
+    "Time": 11,
+    "Date": 23,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576809.429,
+    "Time": 12,
+    "Date": 23,
+    "Elec": 1.58
+  },
+  {
+    "AH_Value": 1576811.008,
+    "Time": 13,
+    "Date": 23,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1576817.024,
+    "Time": 14,
+    "Date": 23,
+    "Elec": 4.41
+  },
+  {
+    "AH_Value": 1576821.429,
+    "Time": 15,
+    "Date": 23,
+    "Elec": 5.58
+  },
+  {
+    "AH_Value": 1576827.008,
+    "Time": 16,
+    "Date": 23,
+    "Elec": 4.42
+  },
+  {
+    "AH_Value": 1576831.429,
+    "Time": 17,
+    "Date": 23,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576836.429,
+    "Time": 18,
+    "Date": 23,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576841.429,
+    "Time": 19,
+    "Date": 23,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576847.429,
+    "Time": 20,
+    "Date": 23,
+    "Elec": 4
+  },
+  {
+    "AH_Value": 1576851.429,
+    "Time": 21,
+    "Date": 23,
+    "Elec": 4.64
+  },
+  {
+    "AH_Value": 1576856.064,
+    "Time": 22,
+    "Date": 23,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1576859.008,
+    "Time": 23,
+    "Date": 23,
+    "Elec": 3.42
+  },
+  {
+    "AH_Value": 1576862.429,
+    "Time": 0,
+    "Date": 24,
+    "Elec": 1.57
+  },
+  {
+    "AH_Value": 1576864,
+    "Time": 1,
+    "Date": 24,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576867.429,
+    "Time": 2,
+    "Date": 24,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576870.016,
+    "Time": 3,
+    "Date": 24,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1576873.429,
+    "Time": 4,
+    "Date": 24,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1576876.032,
+    "Time": 5,
+    "Date": 24,
+    "Elec": 2.4
+  },
+  {
+    "AH_Value": 1576878.429,
+    "Time": 6,
+    "Date": 24,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1576881.024,
+    "Time": 7,
+    "Date": 24,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576886.016,
+    "Time": 8,
+    "Date": 24,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576891.008,
+    "Time": 9,
+    "Date": 24,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1576896,
+    "Time": 10,
+    "Date": 24,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576901.429,
+    "Time": 11,
+    "Date": 24,
+    "Elec": 5.58
+  },
+  {
+    "AH_Value": 1576907.008,
+    "Time": 12,
+    "Date": 24,
+    "Elec": 4.42
+  },
+  {
+    "AH_Value": 1576911.429,
+    "Time": 13,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576916.429,
+    "Time": 14,
+    "Date": 24,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576922.429,
+    "Time": 15,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576927.429,
+    "Time": 16,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576932.429,
+    "Time": 17,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576937.429,
+    "Time": 18,
+    "Date": 24,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1576943.429,
+    "Time": 19,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576948.429,
+    "Time": 20,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576953.429,
+    "Time": 21,
+    "Date": 24,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576958.429,
+    "Time": 22,
+    "Date": 24,
+    "Elec": 1.57
+  },
+  {
+    "AH_Value": 1576960,
+    "Time": 23,
+    "Date": 24,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1576963.429,
+    "Time": 0,
+    "Date": 25,
+    "Elec": 2
+  },
+  {
+    "AH_Value": 1576965.429,
+    "Time": 1,
+    "Date": 25,
+    "Elec": 3
+  },
+  {
+    "AH_Value": 1576968.429,
+    "Time": 2,
+    "Date": 25,
+    "Elec": 2
+  },
+  {
+    "AH_Value": 1576970.429,
+    "Time": 3,
+    "Date": 25,
+    "Elec": 2.63
+  },
+  {
+    "AH_Value": 1576973.056,
+    "Time": 4,
+    "Date": 25,
+    "Elec": 2.37
+  },
+  {
+    "AH_Value": 1576975.429,
+    "Time": 5,
+    "Date": 25,
+    "Elec": 2.62
+  },
+  {
+    "AH_Value": 1576978.048,
+    "Time": 6,
+    "Date": 25,
+    "Elec": 3.38
+  },
+  {
+    "AH_Value": 1576981.429,
+    "Time": 7,
+    "Date": 25,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1576986.429,
+    "Time": 8,
+    "Date": 25,
+    "Elec": 5.57
+  },
+  {
+    "AH_Value": 1576992,
+    "Time": 9,
+    "Date": 25,
+    "Elec": 5.43
+  },
+  {
+    "AH_Value": 1576997.429,
+    "Time": 10,
+    "Date": 25,
+    "Elec": 5.58
+  },
+  {
+    "AH_Value": 1577003.008,
+    "Time": 11,
+    "Date": 25,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577009.024,
+    "Time": 12,
+    "Date": 25,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1577014.016,
+    "Time": 13,
+    "Date": 25,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577020.032,
+    "Time": 14,
+    "Date": 25,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577026.048,
+    "Time": 15,
+    "Date": 25,
+    "Elec": 6.38
+  },
+  {
+    "AH_Value": 1577032.429,
+    "Time": 16,
+    "Date": 25,
+    "Elec": 7
+  },
+  {
+    "AH_Value": 1577039.429,
+    "Time": 17,
+    "Date": 25,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577044.429,
+    "Time": 18,
+    "Date": 25,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1577050.429,
+    "Time": 19,
+    "Date": 25,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577055.429,
+    "Time": 20,
+    "Date": 25,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577060.429,
+    "Time": 21,
+    "Date": 25,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577065.429,
+    "Time": 22,
+    "Date": 25,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1577068.032,
+    "Time": 23,
+    "Date": 25,
+    "Elec": 3.4
+  },
+  {
+    "AH_Value": 1577071.429,
+    "Time": 0,
+    "Date": 26,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1577073.024,
+    "Time": 1,
+    "Date": 26,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1577076.429,
+    "Time": 2,
+    "Date": 26,
+    "Elec": 1.59
+  },
+  {
+    "AH_Value": 1577078.016,
+    "Time": 3,
+    "Date": 26,
+    "Elec": 3.41
+  },
+  {
+    "AH_Value": 1577081.429,
+    "Time": 4,
+    "Date": 26,
+    "Elec": 2.6
+  },
+  {
+    "AH_Value": 1577084.032,
+    "Time": 5,
+    "Date": 26,
+    "Elec": 2.4
+  },
+  {
+    "AH_Value": 1577086.429,
+    "Time": 6,
+    "Date": 26,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1577089.024,
+    "Time": 7,
+    "Date": 26,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1577094.016,
+    "Time": 8,
+    "Date": 26,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577100.032,
+    "Time": 9,
+    "Date": 26,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577106.048,
+    "Time": 10,
+    "Date": 26,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577112.064,
+    "Time": 11,
+    "Date": 26,
+    "Elec": 6.36
+  },
+  {
+    "AH_Value": 1577118.429,
+    "Time": 12,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577123.429,
+    "Time": 13,
+    "Date": 26,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1577129.429,
+    "Time": 14,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577134.429,
+    "Time": 15,
+    "Date": 26,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1577140.429,
+    "Time": 16,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577145.429,
+    "Time": 17,
+    "Date": 26,
+    "Elec": 6
+  },
+  {
+    "AH_Value": 1577151.429,
+    "Time": 18,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577156.429,
+    "Time": 19,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577161.429,
+    "Time": 20,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577166.429,
+    "Time": 21,
+    "Date": 26,
+    "Elec": 5
+  },
+  {
+    "AH_Value": 1577171.429,
+    "Time": 22,
+    "Date": 26,
+    "Elec": 2.59
+  },
+  {
+    "AH_Value": 1577174.016,
+    "Time": 23,
+    "Date": 26,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1577176.064,
+    "Time": 0,
+    "Date": 27,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1577179.008,
+    "Time": 1,
+    "Date": 27,
+    "Elec": 2.05
+  },
+  {
+    "AH_Value": 1577181.056,
+    "Time": 2,
+    "Date": 27,
+    "Elec": 2.94
+  },
+  {
+    "AH_Value": 1577184,
+    "Time": 3,
+    "Date": 27,
+    "Elec": 3.43
+  },
+  {
+    "AH_Value": 1577187.429,
+    "Time": 4,
+    "Date": 27,
+    "Elec": 2
+  },
+  {
+    "AH_Value": 1577189.429,
+    "Time": 5,
+    "Date": 27,
+    "Elec": 3
+  },
+  {
+    "AH_Value": 1577192.429,
+    "Time": 6,
+    "Date": 27,
+    "Elec": 2.58
+  },
+  {
+    "AH_Value": 1577195.008,
+    "Time": 7,
+    "Date": 27,
+    "Elec": 4.99
+  },
+  {
+    "AH_Value": 1577200,
+    "Time": 8,
+    "Date": 27,
+    "Elec": 6.02
+  },
+  {
+    "AH_Value": 1577206.016,
+    "Time": 9,
+    "Date": 27,
+    "Elec": ""
+  },
+  {
+    "AH_Value": 1577303.04,
+    "Time": 8,
+    "Date": 28,
+    "Elec": ""
+  },
+  {
+    "AH_Value": 1577591.04,
+    "Time": 10,
+    "Date": 30,
+    "Elec": ""
+  }
+]
